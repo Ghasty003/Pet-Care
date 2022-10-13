@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0777dcb.css",
+    "main.js": "/static/js/main.7516b069.js",
+    "static/js/787.623dca67.chunk.js": "/static/js/787.623dca67.chunk.js",
+    "static/media/dog-2.jpg": "/static/media/dog-2.626f6f2aecdb413cbca3.jpg",
+    "static/media/dog-1.jpg": "/static/media/dog-1.fb3d5ff150db191ac280.jpg",
+    "static/media/item33.jpg": "/static/media/item33.df81657441c5af908201.jpg",
+    "static/media/item20.jpg": "/static/media/item20.97f2ba3d9275ec306e39.jpg",
+    "static/media/item3.jpg": "/static/media/item3.917c131ce5c3ae496a58.jpg",
+    "static/media/item32.jpg": "/static/media/item32.1b92c1094d44d7226807.jpg",
+    "static/media/item7.jpg": "/static/media/item7.7502e927610d4ad18362.jpg",
+    "static/media/item19.jpg": "/static/media/item19.6c534f370d20ba4a41ba.jpg",
+    "static/media/item35.jpg": "/static/media/item35.298bcc2320767a2ee6e3.jpg",
+    "static/media/item1.jpg": "/static/media/item1.2256b22dad5deed902e4.jpg",
+    "static/media/item30.jpg": "/static/media/item30.7fb47b901a51f98ac460.jpg",
+    "static/media/item31.jpg": "/static/media/item31.da146afb2295916ec644.jpg",
+    "static/media/item9.jpg": "/static/media/item9.28d7c775993d388cd389.jpg",
+    "static/media/item8.jpg": "/static/media/item8.b528fc5c52bb835c76f6.jpg",
+    "static/media/item4.jpg": "/static/media/item4.cfd82405e4f1a794e373.jpg",
+    "static/media/item5.jpg": "/static/media/item5.3ffc3cce418401a3468b.jpg",
+    "static/media/item6.jpg": "/static/media/item6.df188d7fcc153ddf4bb5.jpg",
+    "static/media/item34.jpg": "/static/media/item34.2da087cec60a3b599b72.jpg",
+    "static/media/item36.jpg": "/static/media/item36.93f73278ddfd46dfb7f5.jpg",
+    "static/media/item2.jpg": "/static/media/item2.e90d9ad68a64efee896e.jpg",
+    "index.html": "/index.html",
+    "main.b0777dcb.css.map": "/static/css/main.b0777dcb.css.map",
+    "main.7516b069.js.map": "/static/js/main.7516b069.js.map",
+    "787.623dca67.chunk.js.map": "/static/js/787.623dca67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0777dcb.css",
+    "static/js/main.7516b069.js"
+  ]
+}

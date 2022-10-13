@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.dog-cover {
+    background: url("./images/dog-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.shop-now {
+    @apply border-2 border-black py-3 w-40 text-center mr-10 hover:bg-orange-500 transition duration-1000 hover:border-orange-500;
+}
+
+.courier {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    background: rgb(40, 36, 36);
+}
+
+.footer-text {
+    @apply text-[#bbbbbb] hover:text-orange-500 transition duration-500;
+}
