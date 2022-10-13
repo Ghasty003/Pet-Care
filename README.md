@@ -1,7 +1,7 @@
 ## Pet Care
 Stack used: React.js and TailwindCss.
 
-> View Demo [here](https://63483804a091d100519d6756--petcare-gh.netlify.app/)
+> View Demo [here](https://63484700adfd6b0413563778--petcare-gh.netlify.app/)
 
 # Preview
 <img src="https://user-images.githubusercontent.com/85039185/195653281-7e01a2f4-9ec4-4070-897f-edd0c26b51b1.png" width="400px"/>
