@@ -1,5 +1,8 @@
 ## Pet Care
-Stack used: React.js and TailwindCss.
+
+### About:
+- A web app based on pet welfare.
+- Stack used: React.js and TailwindCss.
 
 > View Demo [here](https://63484700adfd6b0413563778--petcare-gh.netlify.app/)
 
